@@ -46,7 +46,7 @@ function calculate(){
         case "-":
             resultValue = firstOperand - secondOperand;
             break;
-        case "x":
+        case "*":
             resultValue = firstOperand * secondOperand;
             break;
         case "/":
